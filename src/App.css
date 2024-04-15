@@ -31,6 +31,96 @@
   color: white;
 }
 
+.box.red {
+  color: red;
+  border: 1px solid red;
+}
+
+.box.red.valid {
+  background-color: red;
+  color: #fff;
+}
+
+.box.green {
+  color: green;
+  border: 1px solid green;
+}
+
+.box.green.valid {
+  background-color: green;
+  color: #fff;
+}
+
+.box.pink {
+  color: pink;
+  border: 1px solid pink;
+}
+
+.box.pink.valid {
+  background-color: pink;
+  color: #fff;
+}
+
+.box.yellow {
+  color: yellow;
+  border: 1px solid yellow;
+}
+
+.box.yellow.valid {
+  background-color: yellow;
+  color: #fff;
+}
+
+.box.purple {
+  color: purple;
+  border: 1px solid purple;
+}
+
+.box.purple.valid {
+  background-color: purple;
+  color: #fff;
+}
+
+.box.white {
+  color: white;
+  border: 1px solid white;
+}
+
+.box.white.valid {
+  background-color: white;
+  color: #fff;
+}
+
+.box.blue {
+  color: blue;
+  border: 1px solid blue;
+}
+
+.box.blue.valid {
+  background-color: blue;
+  color: #fff;
+}
+
+.box.aqua {
+  color: aqua;
+  border: 1px solid aqua;
+}
+
+.box.aqua.valid {
+  background-color: aqua;
+  color: #fff;
+}
+
+.box.olive {
+  color: olive;
+  border: 1px solid olive;
+}
+
+.box.olive.valid {
+  background-color: olive;
+  color: #fff;
+}
+
 /* Estilos para el input */
 input {
   width: 50%;
